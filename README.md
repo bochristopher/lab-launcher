@@ -1,8 +1,8 @@
-# 🧪 Lab Launcher Tool
+# Lab Launcher Tool
 
 A simple Python CLI to run common lab test scripts from a menu.
 
-## 🔧 Setup
+## Setup
 
 1. Clone the repo:
 ```bash
@@ -15,16 +15,16 @@ cd lab-launcher
 python main.py
 ```
 
-## 📜 Included Scripts
+## Included Scripts
 
 - `calibration.py`: Placeholder for calibration routines
 - `log_impedance.py`: Logs frequency, magnitude, and phase to CSV
 
-## 📂 Output
+## Output
 
 Creates a file called `impedance_log.csv` with your entries.
 
-## 🛠️ Customize
+## Customize
 
 Add your own scripts and update the `scripts` dictionary in `main.py`.
 
